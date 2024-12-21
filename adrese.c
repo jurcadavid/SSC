@@ -12,7 +12,7 @@ Z=24
 
 
 fara exit() ne va da segmentation fault
-
+la fel si daca schimbam numele lui retlib.c in newretlib.c
 
 
 
